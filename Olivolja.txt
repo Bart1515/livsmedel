@@ -1,7 +1,7 @@
 Energi (kcal)	884
 Energi (kJ)	3 700
 Kolhydrater (g)	0,0
-Fett (g)	100,00
+Fett (g)	99,00
 Protein (g)	0,0
 Fibrer (g)	0,0
 Vatten (g)	0,0
