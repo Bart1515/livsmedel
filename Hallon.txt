@@ -1,0 +1,9 @@
+Energi (kcal)	34
+Energi (kJ)	142
+Kolhydrater (g)	4,1
+Fett (g)	0,60
+Protein (g)	1,2
+Fibrer (g)	3,7
+Vatten (g)	90,0
+Alkohol (g)	0,00
+Aska (g)	0,4
