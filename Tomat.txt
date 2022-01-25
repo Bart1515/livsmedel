@@ -6,4 +6,4 @@ Protein (g)	0,8
 Fibrer (g)	1,3
 Vatten (g)	94,7
 Alkohol (g)	0,00
-Aska (g)	0,5
+Aska (g)	1,5
